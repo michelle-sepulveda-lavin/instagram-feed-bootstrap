@@ -1,0 +1,25 @@
+.container {
+    padding-top: 15px ;
+}
+#instagram {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.row .mx-auto {
+    padding-top: 30px;
+}
+
+img {
+    margin: 5px 0px;
+    padding: 1px 0px;
+    
+}
+#contenido {
+    background: #eaeaea;
+}
+
+#imagen {
+    margin: 0px;
+    padding: 0px;
+   
+}
